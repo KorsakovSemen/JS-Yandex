@@ -10,6 +10,7 @@ module.exports = function (date) {
             newDate.setDate(newDate.getDate() + 2);
             return this.newDate;
         },
+        
         subtract : function(val, type){
             console.log(newDate.getFullYear())
             newDate.setDate(date.getDate() - val);
