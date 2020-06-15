@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\1 course\\2 week\\HashSlice"
+            "program": "${workspaceFolder}\\1 course\\3 week\\checks"
         }
     ]
 }
